@@ -1,1 +1,1 @@
-# Delete-an-Array
+# Delete Array
